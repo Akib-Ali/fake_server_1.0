@@ -1,0 +1,28 @@
+{
+    "fake_server" :[
+
+        {
+            "name":"Akib Ali",
+            "age": "24year"
+        },
+
+        {
+            "name":"Usman Ali",
+            "age": "24year"
+        },
+
+        {
+            "name":"farukh Ali",
+            "age": "74year"
+        },
+
+        {
+            "name":"zaved Ali",
+            "age": "14year"
+        }
+
+
+
+
+    ]
+}
